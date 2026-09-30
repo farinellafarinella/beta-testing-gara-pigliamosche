@@ -1,0 +1,12 @@
+Tabella collisioni JS derivata da data/tilesets/park_collision.asm
+
+const COLLISION=[
+"WWWW","FFFF","FFFF","GGGG","FFFF","FFFF","WWWW","WWWW",
+"WWWW","WWWW","FFFF","FFFF","WWWW","WWWW","WWFF","WFFF",
+"WWWF","WWFF","WWFW","LLLL","WFWF","WFFF","FWFW","FFFW",
+"WFWW","FFWW","FWWW","FFWF","WWWF","WWFF","WWFW","FFFF",
+"WFWF","FFFF","FWFW","FFFF","WFWW","FFWW","FWWW","FFFF",
+"WWWW","WWWW","WWWW","FFFF","WWWW","WWWW","WWWW","FWFF",
+"WWWW","WWWW","WWWW","LLLL","WWWW","WWWW","WWWW","WWWW",
+"WWWW","WWWW","WWWW","WWWW","WWWW","WWWW","WWWW","LLLL"
+];
